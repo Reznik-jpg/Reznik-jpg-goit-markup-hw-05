@@ -1,0 +1,64 @@
+<!--  <ul>
+          <li><img src="" alt="" /><a href=""></a></li>
+          <li><img src="" alt="" /><a href=""></a></li>
+          <li><img src="" alt="" /><a href=""></a></li>
+          <li><img src="" alt="" /><a href=""></a></li>
+          </ul> -->
+
+<!-- /* .page-header { display: flex; align-items: center; justify-content:
+flex-start; flex-direction: row; gap: 0px; } */  -->
+
+<!-- .hero-button { font-weight: 500;
+font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; color: #fff;
+background-color: #4d5ae5;  -->
+
+<!-- /* border-radius: 4px; width: 169px; height: 56px; */ -->
+
+<!-- cursor: pointer; } -->
+
+<!-- padding-top: 120px; padding-bottom: 72px; } -->
+
+<div class="portfoll-text-box"></div>
+
+<!-- .footer-logo {
+    margin-bottom: 16px;
+    padding: 24px 0;
+    display: block;
+    width: 115px;
+    height: 24px;
+    display: inline-block;
+  } -->
+
+<!-- /* .visually-hidden {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-align: center;
+    visibility: hidden;
+    position: absolute;
+    white-space: nowrap;
+  } */ -->
+
+<!--   
+/* .hero-cont {
+  background-color: #2e2f42;
+  height: 600px;
+  text-align: center;
+  align-content: center;
+  justify-content: space-around;
+  align-items: center;
+  padding: 188px 0;
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url("../images/hero-pic.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 1440px;
+  display: flex;
+  flex-direction: column;
+} */ -->
