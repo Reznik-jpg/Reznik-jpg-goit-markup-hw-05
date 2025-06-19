@@ -562,3 +562,7 @@ a {
   color: #2e2f42;
   margin-bottom: 16px;
 }
+
+.form-item {
+  width: 360px;
+}
